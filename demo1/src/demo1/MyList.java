@@ -1,5 +1,9 @@
 package demo1;
-
+/**
+ * 数组
+ * @author admin
+ *
+ */
 public class MyList {
 	//定义一个数组
 	private int[] intArray;
@@ -90,3 +94,4 @@ public class MyList {
 		}
 	}
 }
+
